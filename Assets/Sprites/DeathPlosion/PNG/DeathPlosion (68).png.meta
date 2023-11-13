@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: cec5235533c9b23438922236fdc22f6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 108737775118298672
+    second: DeathPlosion (68)_0
+  - first:
+      213: 1665636319284516212
+    second: DeathPlosion (68)_1
+  - first:
+      213: -8470343788384659767
+    second: DeathPlosion (68)_2
+  - first:
+      213: -4082817842267156645
+    second: DeathPlosion (68)_3
+  - first:
+      213: -5902299396226345487
+    second: DeathPlosion (68)_4
+  - first:
+      213: 7703959410476354025
+    second: DeathPlosion (68)_5
+  - first:
+      213: 8920923797708354005
+    second: DeathPlosion (68)_6
+  - first:
+      213: -7866870146335563129
+    second: DeathPlosion (68)_7
+  - first:
+      213: -8385675397093816189
+    second: DeathPlosion (68)_8
+  - first:
+      213: 2433079088881133202
+    second: DeathPlosion (68)_9
+  - first:
+      213: -3635634300661961130
+    second: DeathPlosion (68)_10
+  - first:
+      213: -3199929855484495051
+    second: DeathPlosion (68)_11
+  - first:
+      213: -1941172385987245768
+    second: DeathPlosion (68)_12
+  - first:
+      213: 6014628527606443175
+    second: DeathPlosion (68)_13
+  - first:
+      213: -3779410091231075574
+    second: DeathPlosion (68)_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathPlosion (68)_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 79
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ea79b2e60528100800000000000000
+      internalID: 108737775118298672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47551ff48678d1710800000000000000
+      internalID: 1665636319284516212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 89
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c655e7c33b437a80800000000000000
+      internalID: -8470343788384659767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 79
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f0a0dddcae657c0800000000000000
+      internalID: -4082817842267156645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 58
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f51de988f1d61ea0800000000000000
+      internalID: -5902299396226345487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 74
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e988793446f9ea60800000000000000
+      internalID: 7703959410476354025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 39
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d13cbecdec7dcb70800000000000000
+      internalID: 8920923797708354005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 46
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7822b89484343d290800000000000000
+      internalID: -7866870146335563129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3888d72d7a810ab80800000000000000
+      internalID: -8385675397093816189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296e0335a8804c120800000000000000
+      internalID: 2433079088881133202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 20
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e61dfadd1ab8dc0800000000000000
+      internalID: -3635634300661961130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 11
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bfda910c09793d0800000000000000
+      internalID: -3199929855484495051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839ce6deff19f05e0800000000000000
+      internalID: -1941172385987245768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aca9eb67c0487350800000000000000
+      internalID: 6014628527606443175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathPlosion (68)_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 9
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0325a3db86dc8bc0800000000000000
+      internalID: -3779410091231075574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DeathPlosion (68)_0: 108737775118298672
+      DeathPlosion (68)_1: 1665636319284516212
+      DeathPlosion (68)_10: -3635634300661961130
+      DeathPlosion (68)_11: -3199929855484495051
+      DeathPlosion (68)_12: -1941172385987245768
+      DeathPlosion (68)_13: 6014628527606443175
+      DeathPlosion (68)_14: -3779410091231075574
+      DeathPlosion (68)_2: -8470343788384659767
+      DeathPlosion (68)_3: -4082817842267156645
+      DeathPlosion (68)_4: -5902299396226345487
+      DeathPlosion (68)_5: 7703959410476354025
+      DeathPlosion (68)_6: 8920923797708354005
+      DeathPlosion (68)_7: -7866870146335563129
+      DeathPlosion (68)_8: -8385675397093816189
+      DeathPlosion (68)_9: 2433079088881133202
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

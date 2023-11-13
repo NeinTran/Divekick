@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05c47ed03e1abdf4eaed307ec0c3a214, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Red
+    characterSprite: {fileID: 21300000, guid: f593ee4015a39e44c8b274c4d903ba1a, type: 3}
+    characterPrefab: {fileID: 2090090513835000634, guid: d7b5ab3097bcc2c43b6ee0dd8003bf4c, type: 3}
+  - characterName: Blue
+    characterSprite: {fileID: 21300000, guid: 7766ea94a2ad87745ab8c6d5d7590aa9, type: 3}
+    characterPrefab: {fileID: 118086516742374046, guid: 33bbe4f566a907c46bf7976c5e99e28d, type: 3}
+  - characterName: Green
+    characterSprite: {fileID: 21300000, guid: f36edf7face19244389498266a2b63c9, type: 3}
+    characterPrefab: {fileID: 1962071237602259935, guid: 0dafbc1ec6e55044184b5e370fccb523, type: 3}
+  - characterName: Purple
+    characterSprite: {fileID: 21300000, guid: 4ab77e5fbc6e7f94eac0496969ec3aa3, type: 3}
+    characterPrefab: {fileID: 649824319067227716, guid: 88bd14fd3a1e6ac468ebd097be4d4347, type: 3}

@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: e636f1734caf1794c99f90199a2f5e86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -83865400784916740
+    second: Shield (14)_0
+  - first:
+      213: 2335757672054205114
+    second: Shield (14)_1
+  - first:
+      213: 774006522836035693
+    second: Shield (14)_2
+  - first:
+      213: -8204834063157102591
+    second: Shield (14)_3
+  - first:
+      213: -8411020870524886219
+    second: Shield (14)_4
+  - first:
+      213: 2784902263220140299
+    second: Shield (14)_5
+  - first:
+      213: -251970168326668627
+    second: Shield (14)_6
+  - first:
+      213: -4017351590401344728
+    second: Shield (14)_7
+  - first:
+      213: 3507510964895254681
+    second: Shield (14)_8
+  - first:
+      213: 4126691867611658394
+    second: Shield (14)_9
+  - first:
+      213: -3673681357691665739
+    second: Shield (14)_10
+  - first:
+      213: 4281437585450285708
+    second: Shield (14)_11
+  - first:
+      213: 1004683893362945191
+    second: Shield (14)_12
+  - first:
+      213: 8877140424874256401
+    second: Shield (14)_13
+  - first:
+      213: -7813202720996489572
+    second: Shield (14)_14
+  - first:
+      213: 5320226551543086667
+    second: Shield (14)_15
+  - first:
+      213: 3563644544669290019
+    second: Shield (14)_16
+  - first:
+      213: 5676504999878221025
+    second: Shield (14)_17
+  - first:
+      213: 3918181638169912758
+    second: Shield (14)_18
+  - first:
+      213: 7675770585960251018
+    second: Shield (14)_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield (14)_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 48
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfee441ccdc06def0800000000000000
+      internalID: -83865400784916740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 64
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba2f243a374a6020800000000000000
+      internalID: 2335757672054205114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 55
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d682a77e4d2ddba00800000000000000
+      internalID: 774006522836035693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108fe7004e2922e80800000000000000
+      internalID: -8204834063157102591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 67
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533a7fde41d064b80800000000000000
+      internalID: -8411020870524886219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 25
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09fa657ad5f5a620800000000000000
+      internalID: 2784902263220140299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 33
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeb4e68772d08cf0800000000000000
+      internalID: -251970168326668627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf64c63008f38c0800000000000000
+      internalID: -4017351590401344728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9988e5493ae2da030800000000000000
+      internalID: 3507510964895254681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 57
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a987c72b364f44930800000000000000
+      internalID: 4126691867611658394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 37
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b240d8e446740dc0800000000000000
+      internalID: -3673681357691665739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 46
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a35c8ccc8ba6b30800000000000000
+      internalID: 4281437585450285708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac647f8daa51fd00800000000000000
+      internalID: 1004683893362945191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 30
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118e3edee20f13b70800000000000000
+      internalID: 8877140424874256401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9683e8758de19390800000000000000
+      internalID: -7813202720996489572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 26
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eb3516cdd35d940800000000000000
+      internalID: 5320226551543086667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e85c615db947130800000000000000
+      internalID: 3563644544669290019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 21
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec5873d83ff6ce40800000000000000
+      internalID: 5676504999878221025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56394c07d206630800000000000000
+      internalID: 3918181638169912758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield (14)_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e7d811ea0d58a60800000000000000
+      internalID: 7675770585960251018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Shield (14)_0: -83865400784916740
+      Shield (14)_1: 2335757672054205114
+      Shield (14)_10: -3673681357691665739
+      Shield (14)_11: 4281437585450285708
+      Shield (14)_12: 1004683893362945191
+      Shield (14)_13: 8877140424874256401
+      Shield (14)_14: -7813202720996489572
+      Shield (14)_15: 5320226551543086667
+      Shield (14)_16: 3563644544669290019
+      Shield (14)_17: 5676504999878221025
+      Shield (14)_18: 3918181638169912758
+      Shield (14)_19: 7675770585960251018
+      Shield (14)_2: 774006522836035693
+      Shield (14)_3: -8204834063157102591
+      Shield (14)_4: -8411020870524886219
+      Shield (14)_5: 2784902263220140299
+      Shield (14)_6: -251970168326668627
+      Shield (14)_7: -4017351590401344728
+      Shield (14)_8: 3507510964895254681
+      Shield (14)_9: 4126691867611658394
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
